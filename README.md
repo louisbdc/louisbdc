@@ -46,7 +46,7 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=louisbdc&theme=tokyonight&hide_border=true&background=00000000&ring=1f6feb&fire=6f42c1&currStreakLabel=1f6feb" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=louisbdc&theme=tokyonight&hide_border=true&background=00000000&ring=1f6feb&fire=6f42c1&currStreakLabel=1f6feb" alt="GitHub streak" />
 
 <br />
 
