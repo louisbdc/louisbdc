@@ -1,193 +1,175 @@
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                          HEADER BANNER                            -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Louis%20de%20Caumont&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descAlignY=60" alt="header" width="100%" />
+
 <div align="center">
 
-# Louis de Caumont
-
-### Full-stack developer & product builder focused on clean architecture, automation, and modern web/mobile applications.
-
-<p>
-  <a href="https://github.com/louisbdc">
-    <img src="https://img.shields.io/badge/GitHub-louisbdc-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:l2caumont@gmail.com">
-    <img src="https://img.shields.io/badge/Email-l2caumont%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://github.com/louisbdc">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Clean+architecture+%E2%9C%A6+Automation;Web+%26+mobile+products%2C+idea+to+production;Turning+ideas+into+shipped+software" alt="typing" />
+</a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=louisbdc&style=flat-square&color=1f6feb" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-1f6feb?style=flat-square" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Specialty-Automation%20%26%20Product%20Development-6f42c1?style=flat-square" alt="Specialty badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=flat-square" alt="Collaboration badge" />
+  <img src="https://komarev.com/ghpvc/?username=louisbdc&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-1f6feb?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Automation-%26%20Product-6f42c1?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Open%20to-Collab-238636?style=for-the-badge" alt="Collaboration" />
 </p>
 
 </div>
 
----
-
-## About me
-
-I build reliable, scalable, and user-focused software products from idea to production. My work combines full-stack engineering, product thinking, automation, and clean technical execution.
-
-I care about systems that are easy to understand, easy to maintain, and strong enough to evolve over time.
-
-* Building modern web and mobile applications.
-* Designing clean backend architectures and APIs.
-* Creating automation workflows that improve speed and reliability.
-* Turning product ideas into practical, usable software.
-* Writing structured, maintainable code with long-term scalability in mind.
-
----
-
-## What I like building
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Full-stack applications</h3>
-      <p>Modern products with strong frontend experiences, reliable backend logic, and clean data flows.</p>
-    </td>
-    <td width="50%">
-      <h3>Automation systems</h3>
-      <p>Tools, scripts, workflows, and bots that reduce manual work and make teams faster.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product-oriented platforms</h3>
-      <p>Applications designed around real use cases, clear UX, and practical business value.</p>
-    </td>
-    <td width="50%">
-      <h3>Clean technical foundations</h3>
-      <p>Maintainable project structures, scalable APIs, reusable components, and readable codebases.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech stack
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                          TECH STACK                               -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### Languages & frameworks
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,flutter,dart" alt="Languages and frameworks" />
-
-### Backend, database & cloud
-
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,docker" alt="Backend, database and cloud" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,flutter,dart&perline=7" alt="Languages & frameworks" />
+<br />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,docker,git,github,vscode&perline=7" alt="Backend, DB, cloud & tools" />
 
 </div>
 
----
-
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/louisbdc/SparkHub">SparkHub</a></h3>
-      <p>A modern application project focused on delivering a smooth, practical user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Type-Application-1f6feb?style=flat-square" alt="Application badge" />
-        <img src="https://img.shields.io/badge/Focus-UX%20%26%20Product-238636?style=flat-square" alt="UX and product badge" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/louisbdc/renov-route">renov-route</a></h3>
-      <p>A software project centered on structured development and practical workflow execution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Type-Workflow%20Tool-6f42c1?style=flat-square" alt="Workflow tool badge" />
-        <img src="https://img.shields.io/badge/Focus-Structure%20%26%20Execution-1f6feb?style=flat-square" alt="Structure and execution badge" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/louisbdc/delphine-biographe">delphine-biographe</a></h3>
-      <p>A polished web project built with attention to clarity, content, and maintainability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Type-Web%20Project-238636?style=flat-square" alt="Web project badge" />
-        <img src="https://img.shields.io/badge/Focus-Clarity%20%26%20Content-6f42c1?style=flat-square" alt="Clarity and content badge" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/louisbdc/wintermate">wintermate</a></h3>
-      <p>A product-oriented application built with a focus on usefulness and clean implementation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Type-Product-1f6feb?style=flat-square" alt="Product badge" />
-        <img src="https://img.shields.io/badge/Focus-Utility%20%26%20Implementation-238636?style=flat-square" alt="Utility and implementation badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub activity
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                       GITHUB ANALYTICS                            -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=louisbdc&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Louis de Caumont GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisbdc&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+## 📊 GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=louisbdc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisbdc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=louisbdc&theme=tokyonight&hide_border=true&background=00000000&ring=1f6feb&fire=6f42c1&currStreakLabel=1f6feb" alt="GitHub streak" />
+
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=louisbdc&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=louisbdc&theme=tokyo-night&hide_border=true&area=true&color=1f6feb&line=6f42c1&point=ffffff&bg_color=00000000" alt="Contribution activity graph" width="98%" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=louisbdc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 
 </div>
 
----
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                        FOCUS & WORKFLOW                           -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-## Engineering values
+## 🎯 Where my focus goes
 
-```txt
-Clean structure     > clever shortcuts
-Reliable systems    > fragile prototypes
-Clear APIs          > hidden complexity
-Useful products     > unnecessary features
-Long-term quality   > temporary speed
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'pieOpacity':'0.9'}}}%%
+pie showData
+    "Full-stack apps" : 35
+    "Backend & APIs" : 25
+    "Automation" : 20
+    "Product & UX" : 20
 ```
 
----
+## 🚀 How I ship
 
-## Current interests
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+    A([💡 Idea]) --> B{Worth building?}
+    B -->|No| A
+    B -->|Yes| C[🧱 Clean architecture]
+    C --> D[⚙️ Build & automate]
+    D --> E[🧪 Test & refine]
+    E --> F([🚢 Ship to production])
+    F --> G[🔁 Iterate]
+    G --> C
+```
 
-* Full-stack product development.
-* Developer tooling and automation.
-* Scalable backend architecture.
-* Modern mobile and web interfaces.
-* AI-assisted workflows and productivity tools.
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                       FEATURED PROJECTS                           -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
----
+## 📦 Featured Projects
 
-## Contact
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/louisbdc/SparkHub">SparkHub</a></h3>
+      <p>Modern app focused on a smooth, practical UX.</p>
+      <img src="https://img.shields.io/badge/Application-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/UX%20%26%20Product-238636?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛣️ <a href="https://github.com/louisbdc/renov-route">renov-route</a></h3>
+      <p>Structured development & practical workflow execution.</p>
+      <img src="https://img.shields.io/badge/Workflow%20Tool-6f42c1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Structure-1f6feb?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/louisbdc/delphine-biographe">delphine-biographe</a></h3>
+      <p>Polished web project built for clarity & maintainability.</p>
+      <img src="https://img.shields.io/badge/Web%20Project-238636?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clarity-6f42c1?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>❄️ <a href="https://github.com/louisbdc/wintermate">wintermate</a></h3>
+      <p>Product-oriented app, useful and cleanly implemented.</p>
+      <img src="https://img.shields.io/badge/Product-1f6feb?style=flat-square" />
+      <img src="https://img.shields.io/badge/Utility-238636?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                      CONTRIBUTION SNAKE                            -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-Interested in collaborating, exchanging ideas, or building something useful?
+## 🐍 Contribution Graph
 
-<br />
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/louisbdc/louisbdc/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/louisbdc/louisbdc/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/louisbdc/louisbdc/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                       ENGINEERING VALUES                          -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+
+## 💎 Engineering Values
+
+```diff
++ Clean structure     > clever shortcuts
++ Reliable systems    > fragile prototypes
++ Clear APIs          > hidden complexity
++ Useful products     > unnecessary features
++ Long-term quality   > temporary speed
+```
+
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!--                            CONTACT                                -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 🤝 Let's build something
 
 <a href="mailto:l2caumont@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20me-l2caumont%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  <img src="https://img.shields.io/badge/Email-l2caumont%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/louisbdc">
-  <img src="https://img.shields.io/badge/GitHub-louisbdc-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-louisbdc-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-### Building useful software with clean architecture, strong execution, and product focus.
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%" />
