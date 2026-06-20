@@ -41,8 +41,8 @@
 
 ## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=louisbdc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisbdc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://louisbdc-stats.vercel.app/api?username=louisbdc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://louisbdc-stats.vercel.app/api/top-langs/?username=louisbdc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
@@ -54,7 +54,7 @@
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=louisbdc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+<img src="https://louisbdc-trophy.vercel.app/?username=louisbdc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 
 </div>
 
